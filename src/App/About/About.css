@@ -1,0 +1,22 @@
+.About {
+  display: flex;
+  flex-direction: row;
+  height: 75vh;
+  padding-top: 10vh;
+  max-height: 75vh;
+}
+.Content {
+  font-size: 32px;
+  line-height: 38px;
+  padding-left: 22.5vw;
+  padding-right: 10vw;
+  text-align: left;
+}
+
+.Contact {
+  font-size: 32px;
+  line-height: 38px;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  text-align: left;
+}

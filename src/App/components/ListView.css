@@ -1,0 +1,5 @@
+.ListView-ul{
+  overflow-y: scroll;
+  overflow-x: hidden;
+  width: 45vw;
+}
